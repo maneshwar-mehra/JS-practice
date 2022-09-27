@@ -244,8 +244,4 @@
 
 
 
-// About Arrays
-
-
-
 
